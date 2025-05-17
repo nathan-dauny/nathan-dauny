@@ -13,7 +13,7 @@
 ## 🚀 Projects
 
 ### 🔹 [SliceQL](https://github.com/nathan-dauny/SliceQL)
-> A console APP to run SQL queries directly on structured text files (CSV, TSV, etc.)  
+> A console APP to run SQL queries directly on structured text files. 
 Currently available as a CLI tool, and soon as a web interface using ASP.NET Core.
 
 ### 🔹 [BalanceTeam](https://balanceteam-postgresql.onrender.com)
