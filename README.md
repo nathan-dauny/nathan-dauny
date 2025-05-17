@@ -16,7 +16,7 @@
 > A console APP to run SQL queries directly on structured text files (CSV, TSV, etc.)  
 Currently available as a CLI tool, and soon as a web interface using ASP.NET Core.
 
-### 🔹 [BalanceTeam](@https://balanceteam-postgresql.onrender.com/)
+### 🔹 [BalanceTeam](https://balanceteam-postgresql.onrender.com)
 > Web application for creating balanced teams, with an interactive rating system for users..  
 Currently available as a web app.
 
