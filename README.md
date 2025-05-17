@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello! I'm Nathan Dauny
 
-<!--
-**nathan-dauny/nathan-dauny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about software development, clean architecture, and learning modern tools to build practical solutions.
 
-Here are some ideas to get you started:
+## 🧰 Technologies I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 C#, .NET (Core, ASP.NET)
+- 🗄️ SQL Server / PostgreSQL
+- 🌐 HTML, CSS, JS (basic web front-end)
+- ⚙️ Git, GitHub, GitHub Actions, Dokcer, Azure, Render (CI/CD)
+- 🧪 xUnit, integration tests
+
+## 🚀 Projects
+
+### 🔹 [SliceQL](https://github.com/nathan-dauny/SliceQL)
+> A console APP to run SQL queries directly on structured text files (CSV, TSV, etc.)  
+Currently available as a CLI tool, and soon as a web interface using ASP.NET Core.
+
+### 🔹 [BalanceTeam](https://balanceteam-postgresql.onrender.com/)
+> Web application for creating balanced teams, with an interactive rating system for users..  
+Currently available as a web app.
+
+### 🔹 Portfolio Website
+> [nathan-dauny.github.io](https://nathan-dauny.github.io)  
+Simple static site to showcase projects and contact info (WIP).
+
+## 🧠 Currently Learning
+- Render and Azure
+- Web API  in depth
+- Advanced .NET performance and design patterns
+
+## 📫 Get in touch
+
+- Email: `nathan.dauny[at]gmail.com`
+- LinkedIn: www.linkedin.com/in/nathandauny
+- GitHub: [@nathan-dauny](https://github.com/nathan-dauny)
+- Portfolio: https://nathan-dauny.github.io/
+---
+
+Thanks for reading. 
